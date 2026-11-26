@@ -1,6 +1,6 @@
 # 2026-2027 Congressional App Challenge: Inkwell AI
 
-This program was created by Ethan Cheng, a student and follow hack club member at Eleanor Roosevelt High School. It was created with his AP Computer Science Principals Class, and is the first major app creation project he worked on.
+This program was created by Ethan Cheng, a student and hack club member at Eleanor Roosevelt High School. It was created with his AP Computer Science Principals Class, and is the first major app creation project he worked on.
 
 ## Description
 This program uses local AI models to check spelling and help refine text. It's aimed towards writers, students, and educators, who didn't want to pay larger services such as Grammarly's high subscription prices and didn't want their writing to be sent to external servers. It's these factors that prevent such group of individuals to not be able to or prefer to use these great AI tools, but after just recently looking into local AI models due to their recent increase in popularity, I decided that such models are more than capable to fix simple spelling and developing my own program for the congressional app challenge would allow me to even talor specific commands for more niche needs.
